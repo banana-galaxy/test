@@ -12,6 +12,7 @@
   --burgundy: #C70039;
   --viridian: #1f885f;
   --violet: #4f1f88;
+  colot: var(--lightoutline);
 }
 
 .ochre {
