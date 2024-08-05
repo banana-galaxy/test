@@ -1,3 +1,59 @@
+:root {
+  --ochre: '#D37715';
+  --amber: '#FFA019';
+  --white: '#FFFFFF';
+  --black: '#000000';
+  --coolgraylight: '#3E404A';
+  --coolgraymid: '#272A37';
+  --coolgraydark: '#22242E';
+  --lightoutline: '#D4D6DD';
+  --lightbg: '#E9EAEE';
+  --lightaccentbg: '#F2F3F7';
+  --burgundy: '#C70039';
+  --viridian: '#1f885f';
+  --violet: '#4f1f88';
+}
+
+.ochre {
+  color: var(--ochre);
+}
+
+.ochre-bg {
+  background-color: var(--ochre);
+}
+
+.amber {
+  color: var(--amber);
+}
+
+.amber-bg {
+  background-color: var(--amber);
+}
+
+.coolgraylight {
+  color: var(--coolgraylight);
+}
+
+.coolgraylight-bg {
+  background-color: var(--coolgraylight);
+}
+
+.coolgraymid {
+  color: var(--coolgraymid);
+}
+
+.coolgraymid-bg {
+  background-color: var(--coolgraymid);
+}
+
+.coolgraydark {
+  color: var(--coolgraydark);
+}
+
+.coolgraydark-bg {
+  background-color: var(--coolgraydark);
+}
+
 .underline {
   text-decoration: underline;
 }
