@@ -15,6 +15,10 @@
   color: var(--lightoutline);
 }
 
+body {
+  margin: none;
+}
+
 .ochre {
   color: var(--ochre);
 }
