@@ -78,6 +78,7 @@ body {
 }
 
 .bullet::before {
+  content: "<span/>";
   background-color: var(--lightoutline);
   width: 5px;
   height: 5px;
