@@ -70,3 +70,17 @@ body {
 .italic {
   font-style: italic;
 }
+
+.bullet {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.bullet::before {
+  background-color: var(--lightoutline);
+  width: 5px;
+  height: 5px;
+  border-radius: 100%;
+  margin-right: 8px;
+}
