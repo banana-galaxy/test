@@ -85,3 +85,7 @@ body {
   border-radius: 100%;
   margin-right: 8px;
 }
+
+.tab {
+  padding-left: 1rem;
+}
